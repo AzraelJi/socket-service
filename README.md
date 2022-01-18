@@ -5,4 +5,6 @@ WebSocket是一种在单个TCP连接上进行全双工通信的协议，使得�
 2.广播消息
 3。多人消息推送，支持离线消息
 
-![image](https://user-images.githubusercontent.com/40855023/149878993-65f37e8a-8bbd-4b29-8db7-a6c58b069ab4.png)
+![image](https://user-images.githubusercontent.com/40855023/149909310-6bb6d3f7-d3e5-4b65-bc1d-86b1a8a6be26.png)
+鉴权待开发
+![image](https://user-images.githubusercontent.com/40855023/149909412-07c88ef8-2858-4a2e-8fdb-ce4e64d9750e.png)
